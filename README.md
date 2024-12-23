@@ -62,9 +62,6 @@ Conclusion
 Integrating AI and ML into the Lean Six Sigma approach enhances the ability to monitor, predict, and optimize performance across aircraft equipment testing stages. By leveraging AI and ML for predictive analytics, anomaly detection, and root cause analysis, we can achieve significant improvements in safety, quality, delivery, and cost (SQDC).
 AI/ML-driven insights not only provide real-time decision support but also help in the proactive identification of trends and bottlenecks, allowing for quicker corrective actions and process
 
-Sincerely,Michael Enzo KirkovaTest Technician II SSO: 223034366GE Aerospace1000 MacArthur Memorial Highway | Bohemia, New York 11716 USAGeneral Electric Company Imagination at workElectrical & Computer Engineering & Computer Science Senior Undergraduate New York Institute of Technology  Manhattan ABET Accredited Private University ID 1023062Source Link Verification: https://www.nyit.edu/about/at-a-glance/accreditation/Engineering Accreditation Commission (EAC) of ABET for programs in electrical and computer engineering on the Long Island and New York City (Manhattan) campuses, and mechanical engineering on the Long Island campus. For details, contact: Engineering Accreditation Commission of ABET
-111 Market Place, Suite 1050
-Baltimore, MD 21202-4012
 Phone: 410.347.7700Computing Accreditation Commission (CAC) of ABET for the computer science program on the Long Island and New York City (Manhattan) campuses. For details, contact:Computing Accreditation Commission of ABET
 111 Market Place, Suite 1050
 Baltimore, MD 21202-4012
